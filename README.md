@@ -10,7 +10,7 @@ En este proyecto tu puedes ser el administrador de un restaurante, agregar, actu
  - mongodb en tu ordenador, el link por defecto para mongoose es mongodb://localhost:27017/restaurante,
  la palabra 'restaurante' indica la base de datos con la cual trabajaras, si tienes mongodb como servicio debes 
  poner a correr a mongo desde una terminal independiente con el comando 'mongod', si no tienes creada la base de 
- datos 'restaurante', se creara por defecto cuando arranques el proyecto.
+ datos 'restaurante', se creara por defecto cuando.
  
  - debes contar redis instalado para usar la cache, el puerto por defecto es 6379. , si quieres correrlo desde otro debes modificar la variable de entorno en el documento .env .
 
